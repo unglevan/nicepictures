@@ -1,0 +1,29 @@
+input.btn.btn-primary.btn-login {
+    margin-top: 15px;
+    margin-left: 130px;
+}
+
+input.btn.btn-primary.btn-register {
+    margin: 15px 20px 0 0;
+}
+.search {
+    margin: 20px 0 20px 20px;
+}
+li.menu-item {
+    border: 1px solid;
+    text-align: center;
+    margin-bottom: 2px;
+}
+
+ul.list-menu {
+    list-style: none;
+    padding-left: 0;
+}
+li.menu-item:hover{
+	background-color: #F5C7C7;
+}
+.price {
+    width: 170px;
+    margin: 0 0 10px 20px;
+    border-radius: 6px;
+}
